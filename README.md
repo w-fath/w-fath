@@ -92,7 +92,11 @@
 </div>
 
 ---
+<h1 align="center"></h1>
+
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w-fath/w-fath/output/pacman-contribution-graph-dark.svg">
@@ -102,8 +106,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=w-fath.w-fath&"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/w-fath/w-fath/output/snake.svg" alt="Snake animation" />
 
 ###
