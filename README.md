@@ -8,34 +8,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-```javascript
-const developer = {
-    name: "Your Name",
-    role: "Full Stack Developer",
-    location: "Indonesia 🇮🇩",
-    code: ["JavaScript", "Python", "Java", "PHP", "TypeScript"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask", "FastAPI"],
-            php: ["Laravel"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        misc: ["Docker", "Git", "AWS", "Linux"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() 🤓"
-};
-```
-
----
-
 ### 🚀 Tech Stack
 
 <div align="center">
@@ -68,23 +40,6 @@ const developer = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -153,7 +108,6 @@ const developer = {
 
 <div align="center">
   
-### ⭐ Show some ❤️ by starring some of my repositories!
 
 </div>
 
