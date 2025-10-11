@@ -22,9 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w-fath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
-<h1 align="center"></h1>
-
 
 ---
 ###
@@ -61,6 +58,9 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="26" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="26" alt="discord logo"  />
 </div>
+
+---
+###
 
 <img src="https://raw.githubusercontent.com/w-fath/w-fath/output/snake.svg" alt="Snake animation" />
 
