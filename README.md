@@ -3,13 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-###
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
@@ -29,6 +22,13 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="60" alt="codeigniter logo"  />
+</div>
+---
+###
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ###
