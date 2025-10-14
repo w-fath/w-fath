@@ -62,6 +62,6 @@
 ---
 ###
 
-<img src="https://raw.githubusercontent.com/w-fath/w-fath/output/snake.svg" alt="Snake animation" />!
+<img src="https://raw.githubusercontent.com/w-fath/w-fath/output/snake.svg" alt="Snake animation" />
 
 ###
