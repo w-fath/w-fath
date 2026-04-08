@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
