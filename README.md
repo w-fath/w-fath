@@ -38,21 +38,29 @@ status:     Always learning, always building 🔥
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=w-fath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&border_radius=8&rank_icon=github&cache_seconds=1800" alt="Fathor Rozi GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w-fath&theme=dracula" width="100%" alt="Profile Summary" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w-fath&theme=dracula" height="165" alt="Repos Per Language" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-fath&layout=compact&langs_count=6&theme=dracula&hide_border=false&border_radius=8&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=w-fath&theme=dracula" height="165" alt="Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=w-fath&theme=dracula" height="165" alt="Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=w-fath&theme=dracula&utcOffset=7" height="165" alt="Productive Time" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=w-fath&theme=dracula&hide_border=false&border_radius=8&locale=en&mode=daily" height="165" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=w-fath&theme=dracula&column=7&row=1&margin-w=8&margin-h=8&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 <br/>
