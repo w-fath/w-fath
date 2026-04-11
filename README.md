@@ -1,67 +1,146 @@
+<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:A9FEF7&height=200&section=header&text=w-fath&fontSize=60&fontColor=A9FEF7&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Creator&descAlignY=58&descSize=20&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Hey+There!+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!+%E2%9C%A8;Clean+Code+%7C+Creative+Design+%7C+Endless+Coffee+%E2%98%95" alt="Typing SVG" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="240" style="border-radius: 12px;" />
+</div>
+
+<br/>
 
 ---
-###
-<div align="center">
-  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=w-fath&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=w-fath&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
-###
+<!-- ABOUT ME -->
+## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=w-fath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w-fath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+```yaml
+name:       w-fath
+location:   Indonesia 🇮🇩
+role:       Full Stack Developer
+focus:      Web Development & UI/UX Design
+passion:    Building clean, scalable, & beautiful web apps
+status:     Always learning, always building 🔥
+```
 
-
----
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="60" alt="codeigniter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="26" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="26" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="26" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="26" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="26" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="26" alt="discord logo"  />
-</div>
+<br/>
 
 ---
-###
 
-<img src="https://raw.githubusercontent.com/w-fath/w-fath/output/snake.svg" alt="Snake animation" />
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=w-fath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=8" height="165" alt="stats graph" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w-fath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=8" height="165" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=w-fath&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="165" alt="streak graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=w-fath&theme=dracula&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" />
+</div>
+
+<br/>
+
+---
+
+<!-- TECH STACK -->
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,figma" height="50" alt="frontend tools" />
+
+<br/><br/>
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=php,py,laravel" height="50" alt="backend tools" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="50" alt="codeigniter logo" />
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,wordpress,vscode" height="50" alt="tools" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=w-fath&bg_color=282a36&color=A9FEF7&line=bd93f9&point=ff79c6&area=true&hide_border=false&border_radius=8" alt="activity graph" />
+</div>
+
+<br/>
+
+---
+
+<!-- CONNECT -->
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32" alt="facebook" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" alt="instagram" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32" alt="telegram" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32" alt="youtube" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="32" alt="discord" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/w-fath/w-fath/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9FEF7,50:1a1b27,100:0d1117&height=120&section=footer" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=w-fath&color=A9FEF7&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+</div>
