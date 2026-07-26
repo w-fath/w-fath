@@ -12,21 +12,22 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
     timeout-minutes: 20
+
+    permissions:
+      contents: write
 
     steps:
       - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           games: "pacman"
           player_style: "opportunistic"
 
-      - name: Push Pac-Man SVG to output branch
+      - name: Publish Pac-Man SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
